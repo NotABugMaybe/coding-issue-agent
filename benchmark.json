@@ -1,0 +1,10 @@
+[
+  {
+    "id": "sample-discounted-cart-total",
+    "synthetic": true,
+    "source_revision": "synthetic-v1",
+    "repo": "sample_repo",
+    "issue": "examples/issue.md",
+    "relevant_files": ["shop/cart.py", "tests/test_cart.py"]
+  }
+]
